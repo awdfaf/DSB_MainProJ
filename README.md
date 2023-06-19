@@ -1,4 +1,4 @@
-![Untitled](./images/Untitled.png)
+![Untitled](./images/Untitled.jpg)
 
 # 뱅크비빔밥_스마트 금융
 
